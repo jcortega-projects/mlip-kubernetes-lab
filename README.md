@@ -17,7 +17,7 @@ In this lab you will:
 ## Getting Started
 1. **Sign up for Docker**: If you don't already, ensure you have an account at [docker.com](https://www.docker.com/), so you can push images to the docker registry.
 2. **Start Docker**: Ensure Docker is running on your machine.
-3. **Fork Repo**: Fork the repo [here](https://github.com/KaushikKoirala/mlip-kubernetes-lab-fall25) 
+3. **Fork Repo**: Fork the repo [here](https://github.com/mlip-cmu/mlip-kubernetes-lab) 
 4. **Install MiniKube**: Follow instructions [here](https://minikube.sigs.k8s.io/docs/start/).
 5. **Start MiniKube**: Start MiniKube on your local setup. Run `minikube start`.
 6. **Verify MiniKube**: Confirm that MiniKube is running by listing all pods:
